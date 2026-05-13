@@ -74,7 +74,6 @@ Zero-knowledge architecture with client-side encryption via the Web Crypto API. 
 | Network intermediate | self-study / lab work |
 | Languages in progress | Lua · JavaScript · Rust |
 
----
 
 ## stack
 
