@@ -78,7 +78,3 @@ Zero-knowledge architecture with client-side encryption via the Web Crypto API. 
 ## stack
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,rust,html,css,nodejs,flask,react,docker,linux,git,github)](https://skillicons.dev)
-
-<div align="center">
-  <sub>hunterfranklinb@gmail.com · Portland, OR · open to cybersecurity internships & entry-level roles</sub>
-</div>
