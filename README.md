@@ -29,7 +29,7 @@
    │
    ├─ 💼  Cybersecurity Role      internship or entry-level SOC / cloud sec
    │
-   └─ ✈️  USAF Cyber Officer     commission as a cyber warfare officer
+   └─ ✈️  USAF Cyber Officer      commission as a cyber warfare officer
 ```
 ## featured project
 
