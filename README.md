@@ -63,18 +63,6 @@ Alert tiers:          Critical (12–15)  ·  High (7–11)  ·  All (1+)
 
 Zero-knowledge architecture with client-side encryption via the Web Crypto API. Built with React, Tailwind CSS, and Supabase. Designed to be deployable via Docker with a single command.
 
-## currently learning
-
-| track | resource |
-|---|---|
-| Cybersecurity fundamentals | [roadmap.sh/cybersecurity](https://roadmap.sh/cybersecurity) |
-| Google Cybersecurity Certificate | [Coursera / Google](https://grow.google/certificates/cybersecurity/) |
-| CCNA prep | Cisco Networking Academy |
-| Backend development | [boot.dev](https://boot.dev) |
-| Network intermediate | self-study / lab work |
-| Languages in progress | Lua · JavaScript · Rust |
-
-
 ## stack
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,rust,html,css,nodejs,flask,react,docker,linux,git,github)](https://skillicons.dev)
