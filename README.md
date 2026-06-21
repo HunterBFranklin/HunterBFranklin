@@ -13,7 +13,7 @@
 
 > 🔍 **Open to cybersecurity internships and entry-level roles**; network security, cloud security, or SOC. <br>
 > Actively pursuing CompTIA Security+, CCNA, and Google Cybersecurity Certificate. <br>
-> 📓 [Hunter Franklin, 2026: Resume](https://github.com/user-attachments/files/27699724/Hunter.Franklin.04_2026.-.Resume.copy.pdf) <br>
+> 📓 [Hunter Franklin, 2026: Resume](https://github.com/user-attachments/files/29169979/Hunter_Franklin_05.26_Resume.pdf) <br>
 
 </div>
 
