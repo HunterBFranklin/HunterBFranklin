@@ -17,24 +17,10 @@
 
 </div>
 
-## hunter's roadmap
-
-```
- [NOW]──────────────────────────────────────────────────────────────────▶
-   │
-   ├─ 🔨  HelmSIEM v3.0          self-hosted SIEM on Wazuh + Elasticsearch
-   │       └─ next: Suricata integration · Twilio SMS alerting
-   │
-   ├─ 📜  Cyber Certifications    CompTIA Security+ → Network+ → CySA+
-   │
-   ├─ 💼  Cybersecurity Role      internship or entry-level SOC / cloud sec
-   │
-   └─ ✈️  USAF Cyber Officer      commission as a cyber warfare officer
-```
 ## featured project
 
 ### 🪖 HelmSIEM
-> A self-hosted, open-source SIEM system built for real threat detection.
+> A self-hosted, open-source SIEM system built for live endpoint threat detection.
 
 HelmSIEM is a full security information and event management pipeline running on **Wazuh 4.14.5**, **Elasticsearch**, and **Docker**, monitored by a Python automation layer I wrote from scratch. It watches a MacBook Pro M3 and Ubuntu 22.04 ARM64 VM, fires tiered email alerts across three severity levels (critical · high · all), and delivers a daily HTML recap at 8 PM PST.
 
