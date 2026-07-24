@@ -42,13 +42,6 @@ Alert tiers:          Critical (12–15)  ·  High (7–11)  ·  All (1+)
 
 [→ github.com/HunterBFranklin/helm-siem](https://github.com/HunterBFranklin/helm-siem)
 
-## on deck
-
-### 🔒 Hazy's Keep *(coming soon)*
-> A self-hosted, end-to-end encrypted alternative to Google Keep — your notes, your server, your keys.
-
-Zero-knowledge architecture with client-side encryption via the Web Crypto API. Built with React, Tailwind CSS, and Supabase. Designed to be deployable via Docker with a single command.
-
 ## stack
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,rust,html,css,nodejs,flask,react,docker,linux,git,github)](https://skillicons.dev)
