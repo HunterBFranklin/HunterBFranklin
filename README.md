@@ -49,6 +49,10 @@ Alert tiers:          Critical (12–15)  ·  High (7–11)  ·  All (1+)
 
 [→ github.com/HunterBFranklin/helm-siem](https://github.com/HunterBFranklin/helm-siem)
 
+## Currently Learning
+
+I am currently focusing on TryHackMe's 'Cyber Security 101' learning path, Anthropic's 'Claude with the Anthropic API' certification, and Roadmap.sh's 'Cyber Security Expert' learning roadmap. In addition, I am starting my background research for a portfolio project for Air Force Cyber Officer Commissioning and working on various projects like HelmSIEM and an AI/ML project.
+
 ## stack
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,rust,html,css,nodejs,flask,react,docker,linux,git,github)](https://skillicons.dev)
