@@ -12,14 +12,21 @@
 <div align="center">
 
 > 🔍 **Open to cybersecurity internships and entry-level roles**; network security, cloud security, or SOC. <br>
-> Actively pursuing CompTIA Security+, CCNA, and Google Cybersecurity Certificate. <br>
+> Actively studying for CompTIA Security+ and Google Cybersecurity Certificate. <br>
 > 📓 [Hunter Franklin, 2026: Resume](https://github.com/user-attachments/files/29169979/Hunter_Franklin_05.26_Resume.pdf) <br>
 
 </div>
 
-## featured project
+## Recent Projects
 
-### 🪖 HelmSIEM
+### 07/2026: Network Security Auditing Tool 
+> A tool that I created after my completion of CS 372 and personal research to better protect my personal data online. It's a lightweight Bash script for auditing network security on macOS. Designed for use with a VPN and DNS-over-HTTPS setup, it passively captures and analyzes live traffic to check for common privacy leaks.
+
+[→ github.com/HunterBFranklin/network-audit-tool](https://github.com/HunterBFranklin/network-audit-tool)
+
+## Featured Project
+
+### 🪖 HelmSIEM (in progress)
 > A self-hosted, open-source SIEM system built for live endpoint threat detection.
 
 HelmSIEM is a full security information and event management pipeline running on **Wazuh 4.14.5**, **Elasticsearch**, and **Docker**, monitored by a Python automation layer I wrote from scratch. It watches a MacBook Pro M3 and Ubuntu 22.04 ARM64 VM, fires tiered email alerts across three severity levels (critical · high · all), and delivers a daily HTML recap at 8 PM PST.
