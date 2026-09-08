@@ -19,12 +19,12 @@
 ## Recent Projects
 
 ### 09/2026: Live Network and .PCAP File Analyzer
-> A custom-built network analysis tool created to process live interfaces or previously captured `.pcap` files. Designed from scratch in Python to avoid relying on heavy external IDS engines like `Zeek` or `Suricata`, this tool serves as an underlying microservice for my **HelmSIEM** project (targeted for containerized Kubernetes deployment). It performs core behavioral analysis, including Command and Control (C2) beaconing detection, DNS anomaly/DGA scoring, and threat intelligence lookups against live blocklists.\
+> A custom-built network analysis tool created to process live interfaces or previously captured `.pcap` files. Designed to avoid relying on heavy external IDS engines like `Zeek` or `Suricata`, this tool serves as an underlying microservice for my **HelmSIEM** project. It performs core behavioral analysis, including Command and Control (C2) beaconing detection, DNS anomaly/DGA scoring, and threat intelligence lookups against live blocklists.
 
 [→ github.com/HunterBFranklin/pcap-analyzer](https://github.com/HunterBFranklin/pcap-analyzer)
 
 ### 07/2026: Network Security Auditing Tool 
-> A tool that I created after my completion of CS 372 and personal research to better protect my personal data online. It's a lightweight Bash script for auditing network security on macOS. Designed for use with a VPN and DNS-over-HTTPS setup, it passively captures and analyzes live traffic to check for common privacy leaks.\
+> A tool that I created after my completion of CS 372 and personal research to better protect my personal data online. It's a lightweight Bash script for auditing network security on macOS. Designed for use with a VPN and DNS-over-HTTPS setup, it passively captures and analyzes live traffic to check for common privacy leaks.
 
 [→ github.com/HunterBFranklin/network-audit-tool](https://github.com/HunterBFranklin/network-audit-tool)
 
