@@ -19,7 +19,7 @@
 ## Recent Projects
 
 ### 09/2026: Live Network and .PCAP File Analyzer
-> A custom-built network analysis tool created to process live interfaces or previously captured `.pcap` files. Designed to avoid relying on heavy external IDS engines like `Zeek` or `Suricata`, this tool serves as an underlying microservice for my **HelmSIEM** project. It performs core behavioral analysis, including Command and Control (C2) beaconing detection, DNS anomaly/DGA scoring, and threat intelligence lookups against live blocklists.
+> **v1.0:** A custom-built network analysis tool created to process live interfaces or previously captured `.pcap` files. Designed to avoid relying on heavy external IDS engines like `Zeek` or `Suricata`, this tool serves as an underlying microservice for my **HelmSIEM** project. It performs core behavioral analysis, including Command and Control (C2) beaconing detection, DNS anomaly/DGA scoring, and threat intelligence lookups against live blocklists.
 
 [→ github.com/HunterBFranklin/pcap-analyzer](https://github.com/HunterBFranklin/pcap-analyzer)
 
